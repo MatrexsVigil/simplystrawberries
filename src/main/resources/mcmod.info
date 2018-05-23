@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplystrawberries",
+  "name": "Pam's Simply Strawberries",
+  "description": "Adds a new crop to vanilla Minecraft with semi-unique crop mechanics.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pamela Collins"],
+  "credits": "Pamela Collins",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

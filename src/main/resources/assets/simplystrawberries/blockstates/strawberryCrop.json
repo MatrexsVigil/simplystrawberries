@@ -1,0 +1,50 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cross"
+	},
+	"variants": {
+		"age": {
+			"0": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_0"
+				}
+			},
+			"1": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_1"
+				}
+			},
+			"2": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_2"
+				}
+			},
+			"3": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_3"
+				}
+			},
+			"4": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_4"
+				}
+			},
+			"5": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_5"
+				}
+			},
+			"6": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_6"
+				}
+			},
+			"7": {
+				"textures": {
+					"cross": "simplystrawberries:blocks/strawberrycrop_7"
+				}
+			}
+		}
+	}
+}
