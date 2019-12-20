@@ -1,0 +1,27 @@
+{
+  "result": {
+    "item": "simplystrawberries:strawberrymilkshakeitem"
+  },
+
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "listAllmilk"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "cropStrawberry"
+    }
+    ,
+    {
+      "type": "forge:ore_dict",
+      "ore": "cropStrawberry"
+    }
+,
+    {
+      "type": "forge:ore_dict",
+      "ore": "cropStrawberry"
+    }
+  ],
+  "type": "forge:ore_shapeless"
+}

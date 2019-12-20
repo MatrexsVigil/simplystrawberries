@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "simplystrawberries:strawberryseeditem"
+  },
+
+  "ingredients": [
+    {
+      "item": "simplystrawberries:strawberryitem"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

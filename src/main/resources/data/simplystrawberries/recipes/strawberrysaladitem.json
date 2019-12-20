@@ -1,0 +1,36 @@
+{
+  "result": {
+    "item": "simplystrawberries:strawberrymelonsaladitem"
+  },
+
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "cropStrawberry"
+    },
+{
+      "type": "forge:ore_dict",
+      "ore": "cropStrawberry"
+    },
+{
+      "type": "forge:ore_dict",
+      "ore": "cropStrawberry"
+    },
+{
+      "type": "forge:ore_dict",
+      "ore": "cropMelon"
+    },
+{
+      "type": "forge:ore_dict",
+      "ore": "cropMelon"
+    },
+{
+      "type": "forge:ore_dict",
+      "ore": "cropMelon"
+    },
+{
+"item": "minecraft:bowl"
+}
+  ],
+  "type": "forge:ore_shapeless"
+}

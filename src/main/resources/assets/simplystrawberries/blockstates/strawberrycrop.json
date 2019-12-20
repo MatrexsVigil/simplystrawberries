@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "harvestcraft:crops/strawberry_stage_0" },
+        "age=1": { "model": "harvestcraft:crops/strawberry_stage_1" },
+        "age=2": { "model": "harvestcraft:crops/strawberry_stage_2" },
+	"age=3": { "model": "harvestcraft:crops/strawberry_stage_3" },
+	"age=4": { "model": "harvestcraft:crops/strawberry_stage_4" },
+	"age=5": { "model": "harvestcraft:crops/strawberry_stage_5" },
+	"age=6": { "model": "harvestcraft:crops/strawberry_stage_6" },
+        "age=7": { "model": "harvestcraft:crops/strawberry_stage_7" }
+    }
+}
